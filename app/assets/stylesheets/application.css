@@ -5,10 +5,23 @@
  */
 
 .jumbotron {
-	background-image: url(splash.jpg);
+	background-image: url(splash.jpeg);
 	background-repeat: no-repeat;
 	height: 700px;
  }
+
+ body {
+  font-family: monospace;
+  color: #ffffff;
+ }
+
+ .splash {
+  padding-top: 200px;
+ }
+
+a {
+  color: #ffffff;
+}
 
 /* .jumbotron {
 	background: no-repeat center center, url(splash.jpg) ;
