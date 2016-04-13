@@ -5,9 +5,8 @@
  */
 
 .jumbotron {
-	background-image: url(splash.jpeg);
-	background-repeat: no-repeat;
-	height: 700px;
+	background: no-repeat center/110% url(splash.jpeg);
+  height: 650px;
  }
 
  body {
@@ -16,7 +15,7 @@
  }
 
  .splash {
-  padding-top: 200px;
+  padding-top: 170px;
  }
 
 a {
